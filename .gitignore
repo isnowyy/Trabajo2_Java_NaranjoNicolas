@@ -1,0 +1,10 @@
+# Clases compiladas
+out/
+bin/
+*.class
+
+# Entornos y sistema
+.idea/
+.vscode/
+*.iml
+.DS_Store
